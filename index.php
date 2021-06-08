@@ -79,7 +79,7 @@
             <div class="col">
                 <div class="links">
                 <a href="auth/login.php" class="btn btn-success">Login</a>
-                <a href="/nada_donordarah/client/index.php" class="btn btn-primary">Goto Main Page</a>
+                <a href="/uas-donordarah/client/index.php" class="btn btn-primary">Goto Main Page</a>
                 </div>                
             </div>
         </div>

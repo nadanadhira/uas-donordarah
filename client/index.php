@@ -8,8 +8,7 @@
     <title>Bootstrap 5</title>
 
     <link rel="stylesheet" href="../dist/css/style.css">
-    <link rel="stylesheet" href="../dist/icons/bootstrap-icons.css">
-    <script src="../dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../dist/icons/bootstrap-icons.css">    
 </head>
 
 <body>
@@ -24,6 +23,7 @@
          </div>  
         </main>
     </div>
+    <script src="../dist/js/bootstrap.bundle.js"></script>
 </body>
 
 </html>

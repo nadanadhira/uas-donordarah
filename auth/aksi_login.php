@@ -20,6 +20,7 @@ if (isset($_POST['login'])) {
       $_SESSION['email'] = $data['email'];
       // $_SESSION['name'] = $data['name'];
       $_SESSION['level'] = $data['level'];
+      $_SESSION['id'] = $data['iduser'];
       echo $data['email'];
       if ($data['level'] == 'admin') {
         echo "<script> 
